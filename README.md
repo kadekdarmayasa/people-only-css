@@ -1,4 +1,4 @@
-# website ilustrasi orang sederhana 
+# website ilustrasi manusia sederhana 
 ## dibuat menggunakan 
    1. HTML
    2. CSS 
